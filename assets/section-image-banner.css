@@ -433,6 +433,10 @@
   }
 }
 
+.banner__buttons--column {
+  flex-direction: column;
+}
+
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
 }
