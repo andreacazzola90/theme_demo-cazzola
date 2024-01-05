@@ -146,7 +146,6 @@
                   {{- block.settings.button_label_2 | escape -}}
                 </a>
               {%- endif -%}
-              ciao
               {%- if block.settings.button_label_3 != blank -%}
               <a {% if block.settings.button_link_3==blank %} role="link" aria-disabled="true" {% else %}
                 href="{{ block.settings.button_link_3 }}" {% endif %}
@@ -154,8 +153,6 @@
                 {{- block.settings.button_label_3 | escape -}}
               </a>
               {%- endif -%}
-              ciao
-              test
             </div>
         {%- endcase -%}
       {%- endfor -%}
