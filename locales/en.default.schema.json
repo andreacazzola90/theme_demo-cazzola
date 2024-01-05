@@ -2852,7 +2852,7 @@
         "buttons": {
           "name": "Buttons",
           "settings": {
-            "shows_buttons_in_column": {
+            "show_buttons_in_column": {
               "label": "Shows buttons in column"
             },
             "button_label_1": {
