@@ -48,7 +48,7 @@
         "heading_m8aYhg": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner{{ metaobject.title.value }}",
+            "heading": "{{ metaobject.title.value }}",
             "heading_size": "h1"
           }
         },
